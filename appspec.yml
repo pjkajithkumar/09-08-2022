@@ -1,0 +1,9 @@
+version: 0.0
+os: windows
+files:
+  - source: test.txt
+    destination: c:\temp
+  - source: test_new.txt
+    destination: c:\temp
+  - source: index.html
+    destination: c:\inetpub\wwwroot
