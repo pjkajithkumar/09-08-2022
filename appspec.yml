@@ -5,7 +5,7 @@ files:
     destination: c:\temp
   - source: test - Copy - Copy.txt
     destination: c:\temp
-  - source: test - Copy.txt
+  - source: test - Copy1.txt
     destination: c:\temp
   - source: index.html
     destination: c:\inetpub\wwwroot
